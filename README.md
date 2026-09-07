@@ -28,6 +28,14 @@ Backend Developer focused on building reliable services with Java and Spring Boo
 | [**Moassam**](https://github.com/7-baduki/moassam-backend) | AI observation journal and teacher community service | Backend | Spring Boot, OAuth2, OpenAI | 2026.03 – 2026.05 |
 | [**Didit**](https://github.com/orgs/ddiddit/repositories) | Team retrospective management service | Backend | Kotlin, Spring Boot | In progress |
 
+## Open Source Contributions
+
+### [Apache SeaTunnel](https://github.com/apache/seatunnel)
+
+- Improved Aerospike Sink configuration validation by moving `data_format` checks from runtime to the declarative `OptionRule`
+- Added focused `ConfigValidator` tests covering supported, unsupported, case-insensitive, and default values
+- Merged into the official `dev` branch: [PR #12090](https://github.com/apache/seatunnel/pull/12090)
+
 ## Blog
 
 [myojun.tistory.com](https://myojun.tistory.com)
